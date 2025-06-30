@@ -3,7 +3,7 @@
 
 Achievo is a user‑centric web application that maximises productivity through proven scientific techniques, practical tips, and a thoughtful, vibrant design. Whether you’re tackling study goals or professional milestones, Achievo helps boost focus, motivation, and overall progress.
 
----
+
 
 ##  Table of Contents
 - [Introduction](#introduction)
@@ -16,12 +16,12 @@ Achievo is a user‑centric web application that maximises productivity through 
 - [License](#license)
 - [Repository Structure](#repository-structure)
 
----
+
 
 ##  Introduction
 Achievo combines classic productivity frameworks (Pomodoro, Eisenhower Matrix, 1‑3‑5 Rule, Milestone tracking, daily reflection, and more) in one playful interface. Each feature is designed to reduce decision fatigue, fight procrastination, and keep you in flow.
 
----
+
 
 ##  Objective
 Our mission is to deliver a comprehensive toolset that helps you:
@@ -31,9 +31,9 @@ Our mission is to deliver a comprehensive toolset that helps you:
 3. **Stay motivated** — celebrate wins with streaks and milestones.  
 4. **Reflect & refine** — analyse daily progress and iterate.
 
----
 
-## 🚀 Features
+
+##  Features
 | Feature | What it Does |
 |---------|--------------|
 | **Pomodoro & To‑Do** | Time‑boxed focus sessions with integrated task lists. |
@@ -43,15 +43,15 @@ Our mission is to deliver a comprehensive toolset that helps you:
 | **1‑3‑5 Rule Planner** | Daily plan of one big, three medium, five small tasks. |
 | **Analyse Your Day** | End‑of‑day reflection dashboard for continuous improvement. |
 
----
-###  Pomodoro & To-Do List
+
+### 1.  Pomodoro & To-Do List
 Achievo incorporates the **Pomodoro Technique** to manage your time effectively. Create and organize to-do lists, prioritize important tasks, and stay focused during timed work sessions.  
 ![Achievohome](https://github.com/user-attachments/assets/eb614125-2d0b-48a9-9673-61e1c1fdc1f3)
 
 
 
 
-###  Eisenhower Matrix
+### 2. Eisenhower Matrix
 Visually organize your tasks into four priority levels:
 - **Urgent & Important**
 - **Important, Not Urgent**
@@ -62,14 +62,14 @@ This technique ensures better decision-making and time management.
 
 
 
-### 2.  Motivational Spinning Wheel
+### 3.  Motivational Spinning Wheel
 Get a fun motivational boost! Spin the wheel to receive random quotes, tips, or mini-challenges to uplift your productivity.  
 ![AchievoSpiningWheel](https://github.com/user-attachments/assets/878a5743-b5fb-4eb7-adb0-85c7b957f342)
 
 
 
 
-### 3. Milestone Setter
+### 4. Milestone Setter
 Set SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals and visually track your milestones for personal or project success.  
 ![AchievoMilestone](https://github.com/user-attachments/assets/ece355a2-b26b-4e46-bbae-7cf62ee0b093)
 
@@ -77,7 +77,7 @@ Set SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals and vis
 
 
 
-### 4. 1-3-5 Rule
+### 5. 1-3-5 Rule
 Plan your day using the 1-3-5 method:  
 - 1 Big Task  
 - 3 Medium Tasks  
@@ -87,7 +87,7 @@ This structured approach keeps your day focused and manageable.
 
 
 
-### 5. Analyze Your Day
+### 6. Analyze Your Day
 End your day with a reflective session:  
 - What did you achieve?
 - What could improve?
