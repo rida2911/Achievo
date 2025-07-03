@@ -95,5 +95,25 @@ End your day with a reflective session:
 
 This feature fosters mindfulness and continuous improvement in your daily workflow.
 
+## Getting Started
+
+### Installation
+1. Clone the repository: `git clone https://github.com/rida2911/Achievo.git`
+2. Navigate to the project directory: `cd achievo`
+3. Open `landing_page.html or home_page.html` in your preferred web browser.
+4.  The web application is designed to be user-friendly and easy to navigate.
+
+### Usage
+- Add tasks to different priority lists.
+- Toggle dark mode for a personalized experience.
+  
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+  
+
+
+
+
 
 
