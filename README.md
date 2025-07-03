@@ -12,9 +12,8 @@ Achievo is a user‑centric web application that maximises productivity through 
 - [Getting Started](#getting-started)  
   - [Installation](#installation)  
   - [Usage](#usage)
-- [Feedback](#feedback)
 - [License](#license)
-- [Repository Structure](#repository-structure)
+
 
 
 
